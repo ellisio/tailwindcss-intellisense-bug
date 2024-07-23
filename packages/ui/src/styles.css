@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body, html {
+    @apply overflow-x-clip;
+  }
+
+  body {
+    @apply bg-background relative text-base;
+  }
+
+  :host, body, html {
+    @apply bg-background text-foreground;
+
+    text-rendering: optimizeLegibility;
+  }
+}

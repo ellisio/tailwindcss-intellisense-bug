@@ -1,0 +1,12 @@
+{
+  "name": "@repo/typescript-config",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@tsconfig/next": "^2.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

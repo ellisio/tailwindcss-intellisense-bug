@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "alefragnani.project-manager",
+    "apollographql.vscode-apollo",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "EditorConfig.EditorConfig",
+    "foxundermoon.shell-format",
+    "GitHub.copilot",
+    "GraphQL.vscode-graphql-syntax",
+    "inlang.vs-code-extension",
+    "mkxml.vscode-filesize",
+    "Prisma.prisma",
+    "unional.vscode-sort-package-json",
+    "wix.vscode-import-cost",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
