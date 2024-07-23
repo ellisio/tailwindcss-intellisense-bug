@@ -26,6 +26,9 @@ module.exports = {
         project,
       },
     },
+    tailwindcss: {
+      callees: ["cn", "extendVariants"],
+    },
   },
   parser: "@typescript-eslint/parser",
   parserOptions: {
